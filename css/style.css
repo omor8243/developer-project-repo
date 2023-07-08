@@ -16,6 +16,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0 200px;
 }
 nav ul{
   display: flex;
@@ -40,3 +41,16 @@ font-weight: 800;
   color: #FD6E0A;
 }
 /*nav css end*/
+/*bannar part start*/
+.header{
+  background-color:#FFF8F3;
+}
+.bannar{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.bannar .bannar-picture{
+  width: 500px;
+}
+/*bannar part end*/
