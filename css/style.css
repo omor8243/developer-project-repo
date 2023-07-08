@@ -169,5 +169,8 @@ nav a {
   width: 511px;
   flex-direction: column;
 }
+.resume-btn{
+  text-align: center;
+}
 
 /*resume part end*/
