@@ -91,7 +91,8 @@ nav a {
   padding: 130px;
   border-radius: 10px;
   background: #FFF8F3;
-  margin: 130px 0;
+  /* max-width: 1140px; */
+  /* margin: 130px 0; */
 }
 
 .about-descreption {
@@ -100,6 +101,17 @@ nav a {
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
+}
+.about-info-con{
+  display: flex;
+  justify-content: space-around;
+}
+.about-info-title{
+  margin: 0 0 0 20px;
+  align-items: center;
+}
+.about-info-con{
+  margin-top: 0;
 }
 
 /*about part end*/
